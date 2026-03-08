@@ -12,12 +12,22 @@ This repo holds **community-facing content** only: how to get in touch, contribu
 
 ---
 
+## Ona and Ona Sphere
+
+**Ona** is the execution layer and daily experience: your personal agent (Solin), missions, memory, and channels. It runs locally or on your own VPS.
+
+**Ona Sphere** is the **shared-server** layer. When one AI system must serve many people safely (families, teams, companies), Sphere adds identity boundaries, role-based permissions, private and shared zones, and server-level governance so that shared intelligence does not become shared private data.
+
+In short: **Ona** = private personal layer; **Ona Sphere** = shared server layer. Together they support moving from personal AI workflows to a multi-user environment without changing the core Ona experience. Sphere is optional; Ona works fully on its own.
+
+---
+
 ## Coming soon · Get in touch
 
 - **Alpha installation files** — Coming soon. We’ll publish alpha installers and setup files here or from the main project when they’re ready.
 - **Discord server** — Coming soon. A community Discord will be announced when it’s live.
 
-**Until then:** Go to the **[WhyNot Productions](https://whynotproductions.netlify.app/)** homepage and talk to **Zerwiz** for questions, early access, or to get involved.
+**Until then:** Go to the **[WhyNot Productions](https://whynotproductions.netlify.app/)** homepage or contact **Zerwiz** (Josef Lindbom) at [josef.lindbom@gmail.com](mailto:josef.lindbom@gmail.com) for questions, early access, or to get involved.
 
 ---
 
@@ -44,6 +54,6 @@ For **code and core docs**, contribute to the main Ona repository and follow its
 
 ## Links
 
-- **Get in touch (until Discord):** [WhyNot Productions](https://whynotproductions.netlify.app/) — talk to Zerwiz.
+- **Get in touch (until Discord):** [WhyNot Productions](https://whynotproductions.netlify.app/) or **Zerwiz** — [josef.lindbom@gmail.com](mailto:josef.lindbom@gmail.com) (Josef Lindbom).
 - **Main Ona project:** See the main repository for install, setup, API, and architecture (linked from there when public).
 - **Security reporting:** See [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) and the main repo’s security doc when adopted.
