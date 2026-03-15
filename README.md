@@ -56,7 +56,8 @@ For **code and core docs**, contribute to the main Ona repository and follow its
 
 ## Links
 
+- **This repository (community hub):** [github.com/zerwiz/onapublic](https://github.com/zerwiz/onapublic)
 - **Home page:** [Ona and Ona Sphere](https://ona-sphere.netlify.app/) — mission execution and governance.
 - **Get in touch:** [Discord](https://discord.com/invite/p74cGwrdPd) · [WhyNot Productions](https://whynotproductions.netlify.app/) · **Zerwiz** — [josef.lindbom@gmail.com](mailto:josef.lindbom@gmail.com) (Josef Lindbom).
-- **Main Ona project:** See the main repository for install, setup, API, and architecture (linked from there when public).
+- **Main Ona project:** See this repository for community, contributing, and policies; install/setup/API docs when published will be linked from here.
 - **Security reporting:** See [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) and the main repo’s security doc when adopted.
