@@ -1,6 +1,6 @@
 # Ona & Ona Sphere — Presentation
 
-**Last updated (UTC): 2026-03-12 17:36**
+**Last updated (UTC): 2026-03-15**
 
 This is a presentation-style overview of Ona and Ona Sphere. You can use it as speaker notes, or render it with [Marp](https://marp.app/) (add `---` between slides if your tool uses that). For full narrative and diagrams, see [WHAT_IS_ONA_AND_SPHERE.md](WHAT_IS_ONA_AND_SPHERE.md).
 
@@ -18,7 +18,7 @@ Your AI squad. Your mission. Safe for one — or many.
 
 - Most AI products stop at **chat**.
 - Real work needs **execution**: tasks, memory, tools, many skills.
-- One user is easy. **Many users on one system** need boundaries so shared intelligence doesn’t become shared private data.
+- One person, one Ona is easy. **When many people (each with their own Ona) need to work together**, you need something that connects the Onas and keeps boundaries so shared intelligence doesn’t become shared private data.
 
 ---
 
@@ -47,15 +47,16 @@ Your AI squad. Your mission. Safe for one — or many.
 
 ## Slide 5: What is Ona Sphere?
 
-**Ona Sphere = get it done safely for many users on one server.**
+**Ona Sphere = what connects the Onas.**
 
-- When **families, teams, or companies** share one AI system, you need:
+- Everyone has their own **Ona** and their own **Solin**. When they need to work together, their Onas **connect to a Sphere**.
+- Sphere connects the Onas and provides:
   - **Identity** — who is who
   - **Roles** — who can do what
   - **Private vs shared zones** — no cross-user data leakage
   - **Audit and policy** — what happened and who allowed it
 
-Sphere is the **trust boundary and control plane** for multi-user Ona. It runs **standalone**; Ona does not depend on it to start or run.
+Sphere is the **trust boundary and control plane** that connects multiple Onas. It runs **standalone**; each Ona does not depend on it to start or run.
 
 ---
 
@@ -73,10 +74,10 @@ Sphere is the **trust boundary and control plane** for multi-user Ona. It runs *
 
 ## Slide 7: How they fit together
 
-- **Ona** = execution and experience (the part people use daily).
-- **Sphere** = shared-server layer (identity, permissions, governance).
+- **Ona** = execution and experience (the part each person uses daily). Everyone has their own Ona and Solin.
+- **Sphere** = what connects the Onas (identity, permissions, governance).
 
-**Default:** Ona runs alone; no Sphere required.
+**Default:** You run your Ona alone; no Sphere required.
 
 **With Sphere:** Ona still does missions and UX; Sphere handles cross-user boundaries. Start/stop independently.
 

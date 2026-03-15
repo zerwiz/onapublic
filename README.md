@@ -10,9 +10,9 @@
 
 **Ona** is a **multi-agent orchestration platform**. You talk to **Solin** — your personal agent — and Solin coordinates a **squad of specialists** (Writer, Researcher, Developer, Marketer, etc.) to get work done. It runs **locally or on a VPS** on **any machine**: Linux, macOS, Windows. Any CPU (x86_64, ARM64), any RAM tier, with or without GPU. Self-hosted, no vendor lock-in; you can use local models (Ollama, llama.cpp) or cloud APIs. Channels include web chat, Telegram, WhatsApp, Signal, and more. **Alpha** — we’re still in active development; install files coming soon. **Community Discord:** [Join us](https://discord.com/invite/p74cGwrdPd).
 
-**Ona Sphere** is the **shared-server** layer: when one AI system must serve many people safely (families, teams, companies), Sphere adds identity boundaries, role-based permissions, private and shared zones, and server-level governance so that shared intelligence does not become shared private data.
+**Everyone has their own Ona and their own Solin.** When people need to work together or share a governed space, their Onas **connect to a Sphere**. **Ona Sphere** is what **connects the Onas**: identity boundaries, role-based permissions, private and shared zones, and server-level governance so one person’s data and actions don’t leak into another’s.
 
-In short: **Ona** = private personal layer; **Ona Sphere** = shared server layer. Sphere is optional; Ona works fully on its own.
+In short: **Ona** = your private personal layer (your Solin, your squad). **Ona Sphere** = what connects multiple Onas when many people need to work together. Sphere is optional; Ona works fully on its own.
 
 **→ Full explanation and diagrams:** [WHAT_IS_ONA_AND_SPHERE.md](WHAT_IS_ONA_AND_SPHERE.md)  
 **→ Slide-style overview:** [PRESENTATION.md](PRESENTATION.md)
@@ -35,6 +35,7 @@ This repo holds **community-facing content** only: how to get in touch, contribu
 | Doc | Purpose |
 |-----|---------|
 | [WHAT_IS_ONA_AND_SPHERE.md](WHAT_IS_ONA_AND_SPHERE.md) | **What Ona and Sphere are** — plain-language guide with diagrams |
+| [TECH_STACK.md](TECH_STACK.md) | **Technical stack** — languages, services, data, AI backends, and deployment (high-level) |
 | [PRESENTATION.md](PRESENTATION.md) | **Presentation** — slide-style overview for talks or quick pitch |
 | [COMMUNITY_AND_MAINTAINERS.md](COMMUNITY_AND_MAINTAINERS.md) | Core vs community boundary; where to add skills, propose install improvements; release/triage when adopted |
 | [CONTRIBUTING.md](CONTRIBUTING.md) | How to contribute to the community side (skills, install ideas, policies) |
